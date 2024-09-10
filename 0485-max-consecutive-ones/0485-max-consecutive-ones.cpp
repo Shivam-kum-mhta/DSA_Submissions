@@ -10,8 +10,9 @@ public:
             count=max(rank, count);
              rank=0;
         }
-        count=max(rank, count);
+        // count=max(rank, count);
         }
+        count=max(rank, count);
         return count;
     }
 };
