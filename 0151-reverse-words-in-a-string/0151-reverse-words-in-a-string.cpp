@@ -11,12 +11,13 @@ public:
              if(s[i] != ' ') {
                 if((i == 0) || (s[i-1] == ' ')) b = i;
                 if((i == s.size()-1 ) || (s[i+1] == ' ')) c = i;
-            }
+            
             if(b != -1 && c != -1){
                 bigS.push_back(s.substr(b, c-b+1));
                 b = -1;
                 c = -1;
             }
+        }
         }
         
         string s2="";
