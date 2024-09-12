@@ -5,8 +5,8 @@ class Solution {
 public:
     string reverseWords(string s) {
         vector<string> bigS;
-        int b=-1;
-        for(int i=0;i<s.size();i++)
+        int b=-1, i=0;
+        for(;i<s.size();i++)
         {
              if(s[i] != ' ') {
                 if((i == 0) || (s[i-1] == ' ')) b = i;
@@ -20,7 +20,7 @@ public:
         }
 
          if (b != -1) {
-            bigS.push_back(s.substr(b, s.size() - b));
+            bigS.push_back(s.substr(b, i - b));
         }
         
         
