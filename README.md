@@ -21,6 +21,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,8 +43,13 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
