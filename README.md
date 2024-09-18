@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
