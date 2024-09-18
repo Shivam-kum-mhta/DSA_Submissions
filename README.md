@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -73,10 +74,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
