@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0205-isomorphic-strings](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +97,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
