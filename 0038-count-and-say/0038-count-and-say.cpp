@@ -2,7 +2,7 @@ class Solution {
 public:
     string findfreq(string s){
         int count=1;
-        string s2="";
+        string s2;
         for(int i=1; i<s.size();i++){
                 if(s[i]==s[i-1]) {
                     count++;
