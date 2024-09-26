@@ -9,16 +9,15 @@
  * };
  */
 class Solution {
-public:
+public: //USING RECURSION
     ListNode* reverseList(ListNode* head) {
-        ListNode* temp=head;
-        ListNode* secondtemp=NULL;
-        while(temp!=NULL){
-            head=temp->next;
-            temp->next=secondtemp;
-            secondtemp=temp;
-            temp=head;
-        }
-        return secondtemp;
+       if(head==NULL || head->next==NULL)
+       return head;
+
+       ListNode* newNode= reverseList(head->next);
+       ListNode* front= head->next;
+       front->next=head;
+       head->next=NULL;
+       return newNode;
     }
 };
