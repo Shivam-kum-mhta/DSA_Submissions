@@ -17,6 +17,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0268-missing-number) |
 ## String
@@ -101,6 +103,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -123,4 +126,12 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
