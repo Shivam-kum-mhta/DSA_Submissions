@@ -15,10 +15,10 @@ public:
         dummy->next=head;
         ListNode* first =dummy;
         ListNode* second= dummy;
-        while(n-- && second!=NULL)
+        while(n--)
         second=second->next;
         
-    while(second!=NULL && second->next!=NULL){
+    while(second->next!=NULL){
         first=first->next;
         second=second->next;
     }
