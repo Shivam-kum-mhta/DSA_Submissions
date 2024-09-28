@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0268-missing-number) |
