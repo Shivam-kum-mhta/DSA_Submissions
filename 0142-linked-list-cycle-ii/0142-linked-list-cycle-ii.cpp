@@ -9,15 +9,20 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*, int> map;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            auto it=map.find(temp);
-            if(it==map.end())
-            map[temp]++;
-            else return it->first;
-            temp=temp->next;
-        }
-        return NULL;
+        ListNode* first=head;
+       ListNode* second=head;
+       while(first!=NULL && first->next!=NULL){
+        first=first->next->next;
+        second=second->next;
+        if (first == second) {
+                ListNode* start = head;
+                while (start != second) {
+                    start = start->next;
+                    second = second->next;
+                }
+                return start; 
+            }
+       }
+       return NULL;
     }
 };
