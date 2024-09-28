@@ -23,6 +23,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
