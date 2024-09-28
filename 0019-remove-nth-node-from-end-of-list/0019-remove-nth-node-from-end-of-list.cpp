@@ -24,7 +24,9 @@ public:
     }
     if(first->next!=NULL)
     first->next=first->next->next;
+    
     return dummy->next;
+    delete dummy;
     }
 
 };
