@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
