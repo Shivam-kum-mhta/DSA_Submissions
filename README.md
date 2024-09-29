@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -172,4 +174,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
