@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -107,6 +108,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
