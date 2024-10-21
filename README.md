@@ -45,6 +45,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivam-kum-mhta/Leetcode_Submissions/tree/master/0268-missing-number) |
